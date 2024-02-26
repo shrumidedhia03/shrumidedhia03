@@ -1,5 +1,5 @@
-### Hi there 👋
-# Shrumi Dedhia - Data Analyst/Scientist 📊🔍
+#Hi there, I'm Shrumi Dedhia 👋
+### CS Grad student | Passionate about Data | Exploring ML | Data Analysis Enthusiast  📊🔍
 
 🌐 Passionate about data-driven solutions and innovations. With a Master's in Computer Science from George Washington University and hands-on experience in data analytics and science, I bring a strong foundation in SQL, Tableau, Power BI, Python, and advanced analytics.
 
